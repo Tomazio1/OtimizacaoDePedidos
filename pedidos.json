@@ -1,0 +1,135 @@
+[
+  {
+    "produto": {
+      "nome": "Produto1",
+      "materias_primas": [
+        [
+          { "nome": "MD1" },
+          10
+        ],
+        [
+          { "nome": "MD2" },
+          5
+        ]
+      ],
+      "tempo_fabricacao": 10,
+      "capacidade_producao": 100
+    },
+    "data_entrega": "2024-06-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto2",
+      "materias_primas": [
+        [
+          { "nome": "MD3" },
+          8
+        ],
+        [
+          { "nome": "MD4" },
+          3
+        ]
+      ],
+      "tempo_fabricacao": 15,
+      "capacidade_producao": 200
+    },
+    "data_entrega": "2024-07-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto3",
+      "materias_primas": [
+        [
+          { "nome": "MD5" },
+          8
+        ],
+        [
+          { "nome": "MD6" },
+          3
+        ]
+      ],
+      "tempo_fabricacao": 15,
+      "capacidade_producao": 200
+    },
+    "data_entrega": "2024-08-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto4",
+      "materias_primas": [
+        [
+          { "nome": "MD7" },
+          8
+        ],
+        [
+          { "nome": "MD8" },
+          3
+        ]
+      ],
+      "tempo_fabricacao": 15,
+      "capacidade_producao": 200
+    },
+    "data_entrega": "2024-09-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto5",
+      "materias_primas": [
+        [
+          { "nome": "MD9" },
+          8
+        ],
+        [
+          { "nome": "MD10" },
+          3
+        ]
+      ],
+      "tempo_fabricacao": 15,
+      "capacidade_producao": 200
+    },
+    "data_entrega": "2024-10-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto1",
+      "materias_primas": [
+        [
+          { "nome": "MD1" },
+          10
+        ],
+        [
+          { "nome": "MD2" },
+          5
+        ]
+      ],
+      "tempo_fabricacao": 10,
+      "capacidade_producao": 100
+    },
+    "data_entrega": "2024-11-01",
+    "quantidade_pedido": 20
+  },
+  {
+    "produto": {
+      "nome": "Produto2",
+      "materias_primas": [
+        [
+          { "nome": "MD3" },
+          8
+        ],
+        [
+          { "nome": "MD4" },
+          3
+        ]
+      ],
+      "tempo_fabricacao": 15,
+      "capacidade_producao": 200
+    },
+    "data_entrega": "2024-12-01",
+    "quantidade_pedido": 20
+  }
+]
